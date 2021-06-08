@@ -8,7 +8,7 @@ blocks:
       already used to. To that end, we've developed a GraphL API which allows
       you to define a schema for your filesystem. Once you've defined a schema,
       all you need to do is run a query against it, we'll look at that query and
-      build your Tina forms for you automatically.
+      build your Tina forms for you automatically. Fancy!
 
 
       We've given you a couple of files and a very basic schema to get you
